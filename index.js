@@ -5,6 +5,7 @@ module.exports = {
     '@typescript-eslint/explicit-function-return-type': 'off',
     // Temporarily disable this rule
     '@typescript-eslint/no-floating-promises': 'off',
+    '@typescript-eslint/no-unused-vars': 'error',
     // Forbids `any` in _falsy_ expressions
     '@typescript-eslint/strict-boolean-expressions': [
       'error',
@@ -37,6 +38,7 @@ module.exports = {
         tabWidth: 4,
       },
     ],
+    'no-unused-vars': 'off',
     'sort-keys': [
       'error',
       'asc',
