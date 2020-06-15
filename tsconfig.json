@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "allowJs": true
+  },
+  "include": [
+    ".eslintrc.js",
+    "index.js"
+  ]
+}
