@@ -19,6 +19,7 @@ module.exports = {
         allowString: true,
       },
     ],
+    '@typescript-eslint/switch-exhaustiveness-check': 'error',
     'comma-dangle': [
       'error',
       'always-multiline',
