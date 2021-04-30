@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gitduck",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "GitDuck ESLint shared configuration",
   "main": "index.js",
   "repository": {
