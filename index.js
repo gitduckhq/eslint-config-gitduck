@@ -23,9 +23,6 @@ module.exports = {
     'comma-dangle': [
       'error',
       'always-multiline',
-      {
-        caseSensitive: false,
-      },
     ],
     'max-len': [
       'error',
